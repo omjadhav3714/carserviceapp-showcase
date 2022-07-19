@@ -768,7 +768,20 @@ section{
 
 
 
+  .footer .box-container a.google {
+    width: 150px;
+    height: 44px;
+    line-height: 42px;
+    margin-left: 8px;
+    background: url(../image/btn_googleplay_150.png) no-repeat 50% center / 100%;
+}
 
+.footer .box-container a.appstore {
+    width: 150px;
+    height: 44px;
+    line-height: 42px;
+    background: url(../image/btn_appstore_150.png) no-repeat 50% center / 100%;
+}
 
 
 
